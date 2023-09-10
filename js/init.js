@@ -1,3 +1,4 @@
+// Link a las pages de la actividad https://sofia-hernandezp.github.io/actividad-APIs/
 const URL = "https://api.nationalize.io?name=";
 
   function getJSONData(url){
